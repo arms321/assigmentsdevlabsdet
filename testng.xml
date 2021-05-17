@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Assigments Test">
+		<classes>
+			<class name="selenium.assignments.SeleniumExercise1to5" />
+			<class name="selenium.assignments.SeleniumExercise6to7" />
+			<class name="selenium.assignments.SeleniumExercise8to9" />			
+			<class name="selenium.assignments.SeleniumExercise13" />
+			<class name="selenium.assignments.SeleniumExercise14to15" />
+			<class name="selenium.assignments.SeleniumExercise10to12" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
